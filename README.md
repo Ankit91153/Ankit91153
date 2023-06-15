@@ -1,4 +1,4 @@
-![logo](https://github.com/Ankit91153/Ankit91153/blob/main/FULL%20Stack%20Devloper.png)
+![logo](https://github.com/Ankit91153/Ankit91153/blob/main/ankit%20kumar%20pandey%20(2).png)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
