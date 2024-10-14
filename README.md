@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ankit91153/Ankit91153/blob/main/ankit%20kumar%20pandey%20(2).png)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <img src="https://github.com/Ankit91153/Ankit91153/blob/main/coding.gif" alt="coding" width="400" align="right">
 
